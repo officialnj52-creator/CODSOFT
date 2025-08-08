@@ -1,4 +1,4 @@
-# CODSOFT
+
 # CODSOFT Python Internship Projects
 
 This repository contains my completed tasks for the **CodSoft Python Programming Internship (Batch B41)**.  
@@ -10,8 +10,7 @@ All projects are built from scratch in Python, following the given requirements 
 1. [Task 1 – To-Do List Application](#task-1--to-do-list-application)
 2. [Task 2 – Calculator Application](#task-2--calculator-application)
 3. [Task 4 – Rock-Paper-Scissors Game](#task-4--rock-paper-scissors-game)
-4. [Installation & Running](#installation--running)
-5. [Internship Info](#internship-info)
+4. [Internship Info](#internship-info)
 
 ---
 
@@ -67,3 +66,17 @@ A modern GUI version of the classic game with score tracking and themed visuals.
 - Python 3
 - Tkinter
 - PNG/GIF Image Assets
+
+---
+
+##  **Internship Info**
+Organization: CodSoft
+Domain: Python Programming
+Batch: B41 (July 20 – Aug 20, 2025)
+-**Tasks Completed:**
+-Task 1 – To-Do List
+-Task 2 – Calculator
+-Task 4 – Rock-Paper-Scissors Game
+--
+✍ Created by: Niranjith M
+📅 #codsoft | #internship | #python
