@@ -1,5 +1,5 @@
 
-#### CODSOFT 
+# CODSOFT 
 **Python Internship Projects**
 
 This repository contains my completed tasks for the **CodSoft Python Programming Internship (Batch B41)**.  
