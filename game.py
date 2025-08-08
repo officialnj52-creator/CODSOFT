@@ -6,7 +6,7 @@ game.title("Rock Paper Scissors")
 game.geometry("350x420")
 game.resizable(False, False)
 
-bg_img = PhotoImage(file="D:/codes/vs code/images/bg.png")
+bg_img = PhotoImage(file="Images/bg.png")
 bg_label = Label(game, image=bg_img)
 bg_label.place(x=0, y=0, relwidth=1, relheight=1)
 
@@ -31,9 +31,9 @@ ai_choice = Label(game, text="", font=("Arial", 11),
                   fg="#FFFF39", bg="#000000")
 ai_choice.pack()
 
-rock_img = PhotoImage(file="D:/codes/vs code/images/rock.gif")
-paper_img = PhotoImage(file="D:/codes/vs code/images/paper.gif")
-scissors_img = PhotoImage(file="D:/codes/vs code/images/cutter.gif")
+rock_img = PhotoImage(file="Images/rock.gif")
+paper_img = PhotoImage(file="Images/paper.gif")
+scissors_img = PhotoImage(file="Images/cutter.gif")
 
 human_score = 0
 ai_score = 0
@@ -89,3 +89,4 @@ Label(game, text="Created by Nj", font=("Arial", 9),
       fg="#d3ded3", bg="black").pack(side=BOTTOM, pady=10)
 
 game.mainloop()
+
