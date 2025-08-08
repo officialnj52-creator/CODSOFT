@@ -71,9 +71,12 @@ A modern GUI version of the classic game with score tracking and themed visuals.
 
 ##  **Internship Info**
 Organization: CodSoft
+
 Domain: Python Programming
+
 Batch: B41 (July 20 – Aug 20, 2025)
-###Tasks Completed:
+
+### Tasks Completed:
 - Task 1 – To-Do List
 - Task 2 – Calculator
 - Task 4 – Rock-Paper-Scissors Game
