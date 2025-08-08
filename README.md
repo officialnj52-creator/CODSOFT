@@ -1,5 +1,6 @@
 
-# CODSOFT Python Internship Projects
+### CODSOFT 
+**Python Internship Projects**
 
 This repository contains my completed tasks for the **CodSoft Python Programming Internship (Batch B41)**.  
 All projects are built from scratch in Python, following the given requirements while adding custom UI designs and extra features.
